@@ -16,6 +16,7 @@
 }
 
 .image {
+    border-radius: 50%;
     display: inline;
     padding-left: 150px;
 

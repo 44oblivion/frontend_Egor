@@ -1,0 +1,27 @@
+body{
+    font-family: Tahoma;
+    font-size: 1.6em;
+    text-transform: uppercase;
+}
+
+table, tr ,td, th{
+    width: 20%;
+    border: 2px solid;
+    padding: 30px;
+    /* margin-left: 37%; */
+    border-collapse: collapse;
+    /* justify-content: center; */
+    /* border-collapse: collapse; */
+}
+
+th{
+background-color: #f6c8c8;
+color: rgb(128, 4, 4);
+}
+
+td{
+    text-align: center;
+    background-color: #d2bbbb;
+    color: crimson;
+}
+
