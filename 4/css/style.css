@@ -1,5 +1,6 @@
 body {
     font-family: Tahoma;
+    background-color: #ebebeb;
 }
 
 .header {
@@ -22,7 +23,7 @@ body {
 
 .navigation {
     border-radius: 5px;
-    background-color: #d7d7d7;
+    background-color: #ffffff;
     height: 43px;
     margin: 10px 20px 0px;
     box-shadow: 0 0 10px rgb(83, 83, 83);
@@ -37,7 +38,7 @@ body {
 }
 
 .aside-main {
-    background-color: #e0e0e0;
+    background-color: #ffffff;
     float: left;
     height: 1900px;
     width: 10%;
@@ -47,12 +48,12 @@ body {
 }
 
 .main-content {
-    background-color: #e0e0e0;
+    background-color: #ffffff;
     border-radius: 5px;
     float: left;
     margin-top: 10px;
     width: 80%;
-    height: 1900px;
+    height: 8000px;
     box-shadow: 0 0 10px rgb(83, 83, 83);
 }
 
@@ -111,12 +112,12 @@ a:active {
     font-size: 1.1em;
     margin-top: 15px;
     margin-left: 31px;
-    line-height: 30px;
+    line-height: 50px;
 }
 .titile-main__text-title{
     margin-top: 50px;
-    margin-left: 25%;
-    font-size: 1.8em;
+    margin-left: 19%;
+    font-size: 2.3em;
     text-transform: uppercase;
     font-family: 'Castoro Titling', cursive;
 }
@@ -125,9 +126,104 @@ a:active {
     margin-top: 35px;
     font-size: 1.3em;
     width: 700px;
-    margin-left: 80px;
+    margin-left: 26%;
+    line-height: 28px;
+    text-align: center;
 }
 
 .aside-li{
     margin-left: 12px;
+}
+
+.browser-title{
+    margin-top: 70px;
+    margin-left: 120px;
+    font-size: 2em;
+}
+
+.about-browser{
+    font-size: 1.3em;
+    margin-top: 30px;
+    margin-left: 140px;
+    width: 70%;
+    line-height: 28px;
+} 
+
+/* ------------link main------------------ */
+/* .link-text_main {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+}
+
+
+.link-text_main a:link {
+    color: rgb(156, 41, 41);
+}
+
+.link-text_main a:visited {
+    color: darkred;
+}
+
+.link-text_main a:focus {
+    border-bottom: 1px solid;
+    background: #bdbdbd;
+}
+
+.link-text_main a:hover {
+    border-bottom: 1px solid;
+    background: #b3b3b3;
+}
+
+.link-text_main a:active {
+    background: #434343;
+    color: #1f1f1f;
+} */
+/* --------------------------------------- */
+
+.img-browser{
+    margin-top: 60px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.ol-main{
+    margin-top: 50px;
+    margin-left: 150px;
+    font-size: 1.4em;
+}
+
+.li-main{
+    margin-top: 70px;
+    line-height: 60px;
+    margin-left: 70px;
+    font-size: 1.3rem;
+}
+
+.about-chrome-footer{
+    margin-top: 40px;
+    margin-left: 150px ;
+    font-size: 1.2em;
+}
+
+.end-about-brows{
+    margin-top: 40px;
+    margin-left: 80px;
+    font-size: 1.2em;
+}
+
+.table-table{
+    border-collapse:collapse; 
+    width:100%
+}
+
+.title-table{
+    height:28.8pt; 
+    width:208pt
+}
+
+.main-table{
+    height:14.4pt; 
+    width:208pt
 }
