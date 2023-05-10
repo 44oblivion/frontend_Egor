@@ -7,8 +7,7 @@ body {
     background-color: #1f1f1f;
     height: 80px;
     width: 100%;
-    box-shadow: 0 0 10px rgb(83, 83, 83)
-
+    box-shadow: 0 0 10px rgb(83, 83, 83);
 }
 
 .header-main__text {
@@ -40,11 +39,12 @@ body {
 .aside-main {
     background-color: #ffffff;
     float: left;
-    height: 1900px;
+    height: 8000px;
     width: 10%;
     margin: 10px 20px;
     border-radius: 5px;
-    box-shadow: 0 0 10px rgb(83, 83, 83)
+    box-shadow: 0 0 10px rgb(83, 83, 83);
+    
 }
 
 .main-content {
@@ -106,15 +106,17 @@ a:active {
     background: #434343;
     color: #a0a0a0;
 }
+
 /* ---------------------------------------- */
 
-.aside-main__ol{
+.aside-main__ol {
     font-size: 1.1em;
     margin-top: 15px;
     margin-left: 31px;
     line-height: 50px;
 }
-.titile-main__text-title{
+
+.titile-main__text-title {
     margin-top: 50px;
     margin-left: 19%;
     font-size: 2.3em;
@@ -122,7 +124,7 @@ a:active {
     font-family: 'Castoro Titling', cursive;
 }
 
-.main-content__text-main-1{
+.main-content__text-main-1 {
     margin-top: 35px;
     font-size: 1.3em;
     width: 700px;
@@ -131,23 +133,23 @@ a:active {
     text-align: center;
 }
 
-.aside-li{
+.aside-li {
     margin-left: 12px;
 }
 
-.browser-title{
+.browser-title {
     margin-top: 70px;
     margin-left: 120px;
-    font-size: 2em;
+    font-size: 2em; 
 }
 
-.about-browser{
+.about-browser {
     font-size: 1.3em;
     margin-top: 30px;
     margin-left: 140px;
     width: 70%;
     line-height: 28px;
-} 
+}
 
 /* ------------link main------------------ */
 /* .link-text_main {
@@ -181,49 +183,101 @@ a:active {
 } */
 /* --------------------------------------- */
 
-.img-browser{
+.img-browser {
     margin-top: 60px;
     display: block;
     margin-left: auto;
     margin-right: auto
 }
 
-.ol-main{
+.ol-main {
     margin-top: 50px;
     margin-left: 150px;
     font-size: 1.4em;
 }
 
-.li-main{
+.li-main {
     margin-top: 70px;
     line-height: 60px;
     margin-left: 70px;
     font-size: 1.3rem;
 }
 
-.about-chrome-footer{
+.about-chrome-footer {
     margin-top: 40px;
-    margin-left: 150px ;
+    margin-left: 150px;
     font-size: 1.2em;
 }
 
-.end-about-brows{
-    margin-top: 40px;
-    margin-left: 80px;
+.end-about-brows {
+    margin-top: 80px;
+    margin-left: 300px;
+    font-size: 1.4em;
+}
+
+.table-table {
+    border-collapse: collapse;
+    width: 100%
+}
+
+.title-table {
+    height: 28.8pt;
+    width: 208pt
+}
+
+.main-table {
+    height: 14.4pt;
+    width: 208pt
+}
+
+.table {
+    border: #1f1f1f;
+}
+
+
+
+
+
+th{
+    height: 70px;
+    background-color:#ebebeb;
+    font-size: 1.3em;
+}
+
+td {
+    letter-spacing: 1px;
+    background-color:#ebebeb;
     font-size: 1.2em;
 }
 
-.table-table{
-    border-collapse:collapse; 
-    width:100%
+tbody td {
+    text-align: center;
 }
 
-.title-table{
-    height:28.8pt; 
-    width:208pt
+table {
+    font-family: Tahoma;
+    width: 1000px;
+    height: 600px;
+    margin-left: 240px;
+    margin-top: 60px;
+    }
+
+.yt-video{
+    margin-left: 370px ;
+    margin-top: 100px;
+    width: 760px;
+    height: 515px;
 }
 
-.main-table{
-    height:14.4pt; 
-    width:208pt
+.avtor{
+    margin-top: 50px;
+    margin-right: 140px;    
+    line-height: 30px;
+    text-align: right;
+    font-size: 1.2em;
+}
+
+.source{
+    font-size: 2em;
+    margin-left: 620px;
 }
