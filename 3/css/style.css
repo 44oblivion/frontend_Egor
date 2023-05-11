@@ -59,7 +59,10 @@ td {
     color: rgb(149, 37, 60);
 }
 .table-2{
-    width: 20%;
+    width: 30%;
     margin-top: 60px;
     margin-left: 80px;
+}
+.nomer{
+    width: 100px;
 }
