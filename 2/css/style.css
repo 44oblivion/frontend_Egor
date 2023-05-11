@@ -1,0 +1,99 @@
+.title-text__top {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 3em;
+    font-family: Tahoma;
+    padding: 40px;
+    margin: 10px 330px;
+    background-color: rgb(189, 189, 189);
+    border-radius: 10px;
+}
+
+.form {
+    display: inline;
+    font-family: Tahoma;
+    margin: 10px 20px;
+}
+
+.image {
+    border-radius: 50%;
+    display: inline;
+    padding-left: 150px;
+
+}
+
+.form__text-title {
+    display: inline-block;
+
+}
+
+.text-title {
+    display: inline-block;
+    font-size: 2.5em;
+    padding: 30px 30px 10px;
+}
+
+.form__text-main {
+    display: inline;
+
+    font-size: 1.5em;
+}
+
+.text-main {
+    padding: 7px 50px;
+}
+
+.main-contacts {
+    margin-left: 20px;
+    color: rgb(156, 123, 4);
+    font-size: 1.5em;
+}
+
+.ilit-letters{
+    display: inline;
+    font-size: 1.5em;
+    margin-left: -90px;
+}
+
+.i-letter {
+    color: rgb(227, 180, 78);
+    display: inline;
+    margin-left: 100px
+}
+
+.l-letter {
+    color: rgb(115, 184, 244);
+    display: inline;
+}
+
+.i-2-letter {
+    color: rgb(221, 120, 252);
+    display: inline;
+}
+
+.t-letter {
+    color: rgb(80, 194, 91);
+    display: inline;
+}
+.text__about-main__title{
+    font-size: 2em;
+    margin: 50px 44%;
+    background-color: #e2e2e2;
+    padding: 20px 20px;
+    border-radius: 5px;
+}
+
+.links{
+    color: #f18080;
+}
+.text__about-main__aboutme{
+font-size: 1.5em;
+margin-left: 300px;
+}
+
+.line{
+    background-color: #000;
+    height: 3px;
+    width: 100%;
+    margin: 50px 0px 50px 0px;
+}
