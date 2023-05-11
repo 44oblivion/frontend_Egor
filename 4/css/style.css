@@ -31,6 +31,7 @@ body {
 
 .menu-navigation {
     display: flex;
+    font-size: 1.2em;
     justify-content: space-around;
     padding-top: 13px;
     text-transform: uppercase;
